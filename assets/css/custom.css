@@ -1,0 +1,25 @@
+.bd-footer-widget__title a img {
+    max-width: 100%;
+}
+
+.bd-brand__item{
+    height: 190px;
+}
+.bd-brand__item img{
+    max-width: 98%;
+    max-height: 98%;
+}
+
+
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg,
+    .container-md,
+    .container-sm,
+    .container-xl,
+    .container-xxl {
+        max-width: 1345px;
+    }
+}
